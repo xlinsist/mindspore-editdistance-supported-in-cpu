@@ -1,2 +1,2 @@
 # mindspore-editdistance-supported-in-cpu
-the code for supporting editdistance operator for mindspore in device cpu
+This repository contains codes for supporting editdistance for mindspore in device cpu during Open Source Promotion Plan(OSPP2022). For more information, pleace check out [OSPP website](https://summer-ospp.ac.cn/) as well as the [origin pull request](https://gitee.com/mindspore/mindspore/pulls/40242).
